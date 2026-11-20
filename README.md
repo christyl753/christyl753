@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/christyl753/christyl753/main/banner.gif" alt="Pixel art seaside cafe banner" width="100%" />
+  <img src="./banner.gif" alt="Pixel art seaside cafe banner" width="100%" />
 </p>
 
 <h1 align="center">Hello world! I am Christ 👋</h1>
