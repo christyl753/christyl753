@@ -26,6 +26,12 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=christyl753&show_icons=true&theme=gruvbox" alt="Christ's GitHub Stats" />
+</p>
+---
+
 ### 📫 Contact & Socials
 <p align="left">
   <a href="https://github.com/christyl753" target="_blank">
