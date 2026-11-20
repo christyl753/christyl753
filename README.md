@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Pixel art seaside cafe banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/christyl753/christyl753/main/assets/banner.gif" alt="Pixel art seaside cafe banner" width="100%" />
 </p>
 
 <h1 align="center">Hello world! I am Christ 👋</h1>
@@ -29,7 +29,9 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=christyl753&show_icons=true&theme=gruvbox" alt="Christ's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christyl753&layout=compact&theme=gruvbox" alt="Most used languages in Christ's projects" />
 </p>
+
 ---
 
 ### 📫 Contact & Socials
