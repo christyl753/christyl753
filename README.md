@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.gif" alt="Pixel art seaside cafe banner" width="100%" />
+  <img src="./assets/banner.gif" alt="Pixel art seaside cafe banner" width="50%" />
 </p>
+
 
 <h1 align="center">Hello world! I am Christ 👋</h1>
 
